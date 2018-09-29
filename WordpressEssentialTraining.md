@@ -16,6 +16,23 @@
 
     <?php /* Template Name: Demo Page Template */ --> primul rand de cod in noul fisier 'template-pagina.php' creat in fisierul temei de wordpress
     
+### Customizarea descrierii temei din style.css
+
+```
+/*
+	Theme Name: HTML5 Blank
+	Theme URI: http://html5blank.com
+	Description: HTML5 Blank WordPress Theme
+	Version: 1.4.3
+	Author: Todd Motto (@toddmotto)
+	Author URI: http://toddmotto.com
+	Tags: Blank, HTML5, CSS3
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+```
+    
 ### Functii wordpress de baza in template-urile de pagina (partea 1):
 
     <?php get_header(); // chemarea header-ului in template-ul de pagina ?>
